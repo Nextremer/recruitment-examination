@@ -142,7 +142,8 @@ GET /history/list
   - パスワード認証を設定している場合はパスワード情報も併せてご提出ください。  
 
 # 提出先
-Nextremerインターンエントリーフォーム
-https://goo.gl/forms/WLOtswJYULUBE0Yq2
+以下のエントリーフォームよりご連絡先と本課題の提出物の送信をお願い致します。  
+Nextremerインターンエントリーフォーム  
+https://goo.gl/forms/WLOtswJYULUBE0Yq2  
 
 フォームの送信後に採用担当より5営業日以内にご連絡します。
